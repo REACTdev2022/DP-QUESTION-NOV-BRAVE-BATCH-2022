@@ -12,7 +12,7 @@ the 5 is (2+3),
 and so on!
 #code in java
 //leetcode link->https://leetcode.com/problems/fibonacci-number/
-
+```
 import java.util.*;
 public class Main{
     public int fib(int n) {
@@ -36,6 +36,7 @@ public class Main{
         return sum;
     }
 }
+```
 
 //EXAMPLE format
 Input: n = 2
